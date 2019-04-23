@@ -1,5 +1,5 @@
 # candynim
-Generate sample games of Candy Nim to understand optimal play.
+Generate sample games of Candy Nim to understand optimal play (see paper https://arxiv.org/abs/1805.07019)
 
 
 Getting Started: 
